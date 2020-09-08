@@ -1,0 +1,2 @@
+third cluster starts by node 8
+Adjacent nodes are : 

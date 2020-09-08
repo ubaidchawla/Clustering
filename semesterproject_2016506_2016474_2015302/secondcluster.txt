@@ -1,0 +1,2 @@
+second cluster starts by node 5
+Adjacent nodes are : 

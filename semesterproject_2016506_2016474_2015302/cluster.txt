@@ -1,0 +1,3 @@
+First Cluster starts by node 1
+Adjacent nodes are : 
+2 4 9 
